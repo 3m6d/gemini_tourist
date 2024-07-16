@@ -1,6 +1,6 @@
 # Gemini Tourist
 
-Welcome to the Gemini Tourist project! This repository contains the code for the Gemini Tourist application, which is designed to [brief description of the purpose of your project].
+Welcome to the Gemini Tourist project! This repository contains the code for the Gemini Tourist application, which is designed to use multimodal features to create a tourist guide.
 
 ## Installation
 
